@@ -1,8 +1,5 @@
 #!/bin/bash
-if [ $# == 1 ]
-then
-git config --global user.email erkinnnn@inbox.lv
+git config --global user.email erika3303@inbox.lv
 git add .
-git commit -m $1
+git commit -m "20171012_09_55"
 git push origin master
-fi

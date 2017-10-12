@@ -1,0 +1,7 @@
+#!/bin/bash
+echo:"----------------"
+#1.piemērs (mērķis 2+2=4) -
+# - gala rezultāts simbolu rinda "2+2" nevis skaitlis 4
+val=2+2
+ecjo "bez apostrofiem"$val
+
